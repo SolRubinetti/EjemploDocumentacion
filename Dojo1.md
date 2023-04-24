@@ -23,7 +23,7 @@ El gobierno de la ciudad quiere actualizar los semáforos que tiene instalados. 
 ## Funcion principal
 Esta funcion se encarga de hacer sonar el buzzer por el tiempo recibido en los parametros y repite este comportamiento 10 veces.
 
-## !robot: Link al proyecto
+## Link al proyecto
 - [Tinkercard-Sol Rubinetti](https://www.tinkercad.com/things/iZNwefUZfGa-dojo-1-grupo-f-clase-5/editel?sharecode=4DJUVY-ezPfkTXRP7us0aNPnXKNrvgEcs_NTCFw-zh4)
 - [Tinkercard-Yamila Sueldo](https://www.tinkercad.com/things/ekHG25jeY0k-dojo-numero-uno/editel?sharecode=_ZBsYcqE1y3GENhjB3fzVXFeKbKeGMpGsUccB4qW-Ok)
 - [Tinkercard-Adrian Barrientos](https://www.tinkercad.com/things/8mgCsJsUrRK-bodacious-borwo/editel?sharecode=VCCzrcbr8gq2P9JAjRSaL-b77EM1lVzc9hE01hZxCX8)
