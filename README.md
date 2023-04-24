@@ -1,5 +1,5 @@
 # DOJO NUMERO UNO - GRUPO F
-![Tinkercad](.![Dojo 1 - Grupo F - Clase 5](https://user-images.githubusercontent.com/123521694/234116476-4abf2483-4d24-4e95-b40f-6cee80505cdd.png)
+(.![Dojo 1 - Grupo F - Clase 5](https://user-images.githubusercontent.com/123521694/234116476-4abf2483-4d24-4e95-b40f-6cee80505cdd.png)
 
 ## Integrantes 
 - Sol Rubinetti
