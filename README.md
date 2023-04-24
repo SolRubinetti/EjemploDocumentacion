@@ -29,8 +29,6 @@ El gobierno de la ciudad quiere actualizar los semáforos que tiene instalados. 
 6. Tiene que tener señalización para personas no videntes como se detalla a  continuación. (Buzzer o piezo)
 7. Durante el rojo: Tiene que sonar 2 vez por segundo en un tono FUERTE.
 
-## Finalidad del proyecto
-
 
 
 
