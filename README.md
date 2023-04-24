@@ -1,5 +1,5 @@
 # DOJO NUMERO UNO - GRUPO F
-
+![Tinkercad](.![Dojo 1 - Grupo F - Clase 5](https://user-images.githubusercontent.com/123521694/234116476-4abf2483-4d24-4e95-b40f-6cee80505cdd.png)
 
 ## Integrantes 
 - Sol Rubinetti
@@ -18,9 +18,10 @@ El gobierno de la ciudad quiere actualizar los semáforos que tiene instalados. 
 4. El amarillo dura 3 segundos. 
 5. Rojo dura 5 segundos. 
 6. Tiene que tener señalización para personas no videntes como se detalla a  continuación. (Buzzer o piezo)
-7. Durante el rojo: Tiene que sonar 2 vez por segundo en un tono FUERTE.
+7. Durante el rojo: Tiene que sonar 2 vez por segundo en un tono FUERTE. 
 
-
+## Funcion principal
+Esta funcion se encarga de hacer sonar el buzzer por el tiempo recibido en los parametros y repite este comportamiento 10 veces.
 
 
 
